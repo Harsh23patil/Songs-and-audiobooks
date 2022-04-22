@@ -1,0 +1,102 @@
+body{
+    padding: 10px;
+    height: auto;
+}
+h2{
+    margin: 0;
+}
+h4{
+    margin: 0;
+}
+.backgroundBox{
+    height: 1200px;
+    width: 1440px;
+    margin-left: 50px;
+    position: relative;
+    background-color: #e4e7f0;
+}
+.mainBox{
+    background-color: white;
+    height: 700px;
+    width: 450px;
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    border-radius: 5%;
+}
+.mainImage{
+    height: 320px;
+    width: 450px;
+    border-radius: 5%;
+}
+.firstBox{
+    text-align: center;
+    width: 60%;
+    margin-left: 90px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.price{
+    height: 60px;
+    width: 80%;
+    margin: 0;
+    text-align: center;
+    position: relative;
+    left: 45px;
+    background-color: #f1fbff;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-radius: 12%;
+}
+.btn{
+    height: 40px;
+    width: 300px;
+    background-color:#4535f2 ;
+    color: white;
+    text-decoration: none;
+    border-radius: 7%;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-right: 0;
+    text-align: left;
+    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+
+    margin-top: 20px;
+    position: relative;
+    left: 70px;
+}
+.songImag{
+    position: absolute;
+    left: 20px;
+    top: 25px;
+
+}
+.annual{
+    position: absolute;
+    left: 80px;
+    top: 25px;
+    font-weight: bolder;
+}
+.money{
+    position: absolute;
+    left: 80px;
+    top: 60px;
+    font-weight: bolder;
+}
+.change{
+    position: absolute;
+    right: 50px;
+    top: 40px;
+    text-decoration: none;
+    font-size: 1.1rem;
+    /*  */
+}
+.footer{
+    color: #616163;
+    margin:10px ;
+    position: relative;
+    left: 160px;
+    top: 5px;
+}
